@@ -320,6 +320,8 @@ footer{
 
   .top-moving-line{
   padding:8px 0;
+    background:#000000;
+
   }
 
 .top-moving-track span{
@@ -725,7 +727,7 @@ footer{
 
   padding:10px 0;
 
-  background:#0d1b2a;
+  background:#000000;
 
   border-bottom:1px solid rgba(255,255,255,0.08);
 }
